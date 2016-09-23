@@ -23,4 +23,4 @@ QQ群：583835995
 微信 群：
 
 
-![](https://github.com/HioryLiu/weapp-demo/blob/master/qrcode.jpg)
+![](https://github.com/HioryLiu/weapp-demo/blob/master/qrcode.png)
