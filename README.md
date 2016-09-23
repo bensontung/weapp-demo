@@ -16,6 +16,11 @@
 - [API 文档](http://wxopen.notedown.cn/api/)
 - [视图组件文档](http://wxopen.notedown.cn/component/)
 - [常见问题](http://wxopen.notedown.cn/qa/qa.html)
+- 
+
+
+QQ群：583835995
+微信 群：
 
 
 ![](https://github.com/HioryLiu/weapp-demo/blob/master/qcode.png)
