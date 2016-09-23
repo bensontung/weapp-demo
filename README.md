@@ -18,4 +18,4 @@
 - [常见问题](http://wxopen.notedown.cn/qa/qa.html)
 
 
-![](https://github.com/HioryLiu/weapp-demo/blob/master/awesome-wechat-weapp/qcode.png)
+![](https://github.com/HioryLiu/weapp-demo/blob/master/qcode.png)
